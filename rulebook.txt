@@ -1,7 +1,7 @@
 EVENT- The Lattice
 An immersive, campus-wide OSINT and mystery Alternate Reality Game (ARG) built to test deduction, research skills, and shameless negotiation. Every team investigates a shady organisation that insists it’s perfectly fine, following digital footprints and physical trails across campus. Fair warning: not everything you find is true, not everyone you trade with is honest, and the organisation is definitely not a book club.
 
-⚙️  Technical Details 
+⚙️ Technical Details 
 Team Size: 2 members (Teams must stay together at all times).
 Duration: 5.5 hours.
 
