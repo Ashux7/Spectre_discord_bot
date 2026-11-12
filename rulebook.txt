@@ -1,0 +1,54 @@
+EVENT- The Lattice
+An immersive, campus-wide OSINT and mystery Alternate Reality Game (ARG) built to test deduction, research skills, and shameless negotiation. Every team investigates a shady organisation that insists it’s perfectly fine, following digital footprints and physical trails across campus. Fair warning: not everything you find is true, not everyone you trade with is honest, and the organisation is definitely not a book club.
+
+⚙️  Technical Details 
+Team Size: 2 members (Teams must stay together at all times).
+Duration: 5.5 hours.
+
+Event Mechanics & Guidelines
+
+Asymmetric Trails: Every team is secretly assigned one trail with its own evidence, its own point of view, and its own blind spots. You’re not lost. You’re just looking at one corner of the lattice. 
+The Contradiction Fallacy: Your trail may flatly disagree with another team’s. Relax, nobody is lying. Every path holds an authentic, partial piece of the truth. They just wear different hats. 
+Information Trading: No team can finish alone. Cross-examine, negotiate, and trade intel with rival teams through the official Exchange channel. Think of it as a flea market where the goods are secrets and everyone pretends the price is fair. 
+Clue Types: Expect Instagram profiles, voice notes delivered by our Telegram bot, ciphers, coordinates, and screenshots. Yes, you may need to replay a voice note. No, it will not get less creepy. 
+The Watching Bot: Our bot has a long memory and a short fuse. It learns your team name and uses it. Guess wildly and it will notice. Brute-forcing a clue is like knocking on every hostel door to find one friend: you’ll learn nothing and make enemies. 
+Live Incident Feed: A public feed shows anonymous milestones as the night unfolds. Watch it, panic a little, and carry on. 
+Moving Parts: Some locations and profiles may change during the event. If a poster looks different the second time, you’re not losing your mind. It’s a feature, not a bug. 
+Offers You Can Refuse: Late in the event, someone may make your team an offer. It’s not a bribe. Okay, it’s a bribe. Read the fine print, and remember that the choice is part of your score. 
+Winning Condition: The winning team gathers outside intel, reconciles the contradictions, and delivers the most accurate, evidence-backed conclusion. The fastest feet don’t win this one. The best brains and the best bargaining do. 
+The Finale: The event closes with a live reveal of the real story. Attendance isn’t mandatory, but the plot twist is. 
+
+Official Rules & Code of Conduct
+
+1. Artifact & Physical Trail Integrity
+Non-Removal Policy: Physical clues, QR codes, props, and hidden artifacts must stay exactly where you found them. Take a photo, not the poster. Moving, hiding, picking up, or damaging an artifact means immediate disqualification. It’s a clue, not a souvenir. 
+Anti-Sabotage Rule: Creating fake clues, altering official markers, or blocking access to clue sites is strictly prohibited. Misdirection belongs in your negotiations, not your stationery. 
+Out-of-Bounds Zones: All clues are in publicly accessible campus areas. Do not enter roofs, electrical or maintenance rooms, construction zones, private dorm rooms, or restricted faculty offices. If you need a key, you’re in the wrong place. 
+Campus Respect: Do not disturb classes, library quiet zones, or non-participating students and staff. The mystery is meant to be solved, not rudely announced. 
+Clue Changes: Game Masters may update some locations mid-event. If something looks different, report it to a GM instead of accusing a rival team of tampering. 
+
+2. Digital & OSINT Rules
+No Hacking or Brute-Forcing: This game tests intelligence, not exploits. DoS attacks, automated scraping, password brute-forcing, or server penetration testing are forbidden. We’re an ARG, not a pentest. 
+Scoped Targets Only: Interact only with the official bot, the listed social accounts, and official event channels. Look at the in-game profiles as much as you like, but don’t message, spam, or report them. They’re fictional, and they don’t take DMs. Do not perform OSINT on real, non-game students or staff. 
+Bot Etiquette: If the bot tells you to wait, wait. It isn’t buffering, it’s judging you. Attempts to bypass its cooldowns count as brute-forcing. 
+No Public Leaks: Posting live solutions, secret locations, or answer keys on public forums, campus group chats, or social media during the event is strictly prohibited. Spoilers are a crime in every genre. 
+
+3. Inter-Team Negotiation & Alliances
+Intel Trading Mechanics: Teams are encouraged to trade, negotiate, and barter. Official trades happen on the Exchange channel so there is a record. Side deals in private chats don’t count, and we can’t help you if a deal goes sour. 
+Strategic Deception: Misdirection and withholding information are allowed within the game’s narrative, so bluff like a poker pro, not like a pickpocket. Never lie about real-world matters, impersonate real people, or pressure other teams. Also, not every voice on the Exchange belongs to a team. Trust, but verify. 
+No Team Mergers: Temporary alliances are fine, but conclusions must be submitted separately under each registered team name. Rosters are locked once the event begins. 
+Team Names: Choose wisely. The bot will use yours often and in an unsettling tone. 
+In-Game Calls and Messages: You may receive a call or message from an in-game character. They will never ask for personal information, passwords, or money. If anyone does, end the call and tell a Game Master. 
+
+4. Submission & Game Master (GM) Protocols
+NPC Identification: NPCs and GMs carry explicit physical or digital badges. Do not harass regular campus staff on a hunch that they’re in-game actors. 
+Evidence-Based Conclusions: Final submissions must include both your conclusion and the supporting clue network (photos, logs, or traded intel). “Trust me, bro” is not a source. 
+Offer Disclosure: If your team receives the late-game offer, state in your submission whether you accepted or declined it. Honesty is scored, and so is temptation. 
+Hint Penalty System: Hints can be requested at Event HQ, each at a time or point penalty. One hint costs less than an hour of staring at a cipher. 
+
+5. Safety & Emergency Protocols
+Safety First: Real-world safety always beats gameplay. No clue requires running across traffic, climbing structures, or breaking campus safety rules. If a clue seems to, you’ve misread it. Ask a GM. 
+Emergency Safe-Word: In a real emergency or injury, say “OUT OF GAME” to freeze gameplay in your area and alert Game Masters or emergency personnel.
+
+
+Final Authority: The organizers reserve the right to interpret these rules at their sole discretion. In the event of any ambiguity, dispute, or discrepancy, the decision of the Game Master (GM) will be final, absolute, and non-appealable. 
